@@ -1,0 +1,4 @@
+.cache
+.figmagic
+dist
+node_modules
